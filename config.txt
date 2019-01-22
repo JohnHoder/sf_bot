@@ -1,0 +1,3 @@
+server http://s20.sfgame.de
+username gand
+password pass123
